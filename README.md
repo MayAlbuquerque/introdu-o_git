@@ -6,7 +6,11 @@ Teste Git
 
 Apresentação em geral 
 
-[] Teste 
-[x] teste 2 
+###testeeee
+
+Criar todo list, "-[]"
+
+- [x] Teste 
+- [x] teste 2 
 
 
