@@ -6,4 +6,7 @@ Teste Git
 
 Apresentação em geral 
 
+[] Teste 
+[x] teste 2 
+
 
