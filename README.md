@@ -10,7 +10,7 @@ Apresentação em geral
 
 Criar todo list, "-[]"
 
-- [] Teste 
+- [ ] Teste 
 - [x] teste 2 
 
 
